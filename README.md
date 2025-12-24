@@ -8,12 +8,29 @@ This is a situation where the demand is uncertain so we have to determine the nu
 
 ## Usage
 
+## Usage
+
+### 🚀 Run the Web App (Recommended)
+This project is built with **Streamlit** for an interactive experience.
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-
-2. Run the solver:
+2. Run the app:
    ```bash
-   python strawberrysolver.py
+   streamlit run app.py
    ```
+   A new tab will open in your browser with the solver interface.
+
+### 🐍 Run the Script (CLI)
+If you prefer the command line:
+```bash
+python strawberrysolver.py
+```
+
+## 🌍 Deployment
+You can deploy this app for free using **Streamlit Community Cloud**:
+1. Push this code to a GitHub repository.
+2. Sign up at [share.streamlit.io](https://share.streamlit.io/).
+3. Connect your GitHub account and select this repository.
+4. Click **Deploy**!
