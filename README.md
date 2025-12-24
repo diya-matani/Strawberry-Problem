@@ -28,9 +28,6 @@ If you prefer the command line:
 python strawberrysolver.py
 ```
 
-## 🌍 Deployment
-You can deploy this app for free using **Streamlit Community Cloud**:
-1. Push this code to a GitHub repository.
-2. Sign up at [share.streamlit.io](https://share.streamlit.io/).
-3. Connect your GitHub account and select this repository.
-4. Click **Deploy**!
+## 🌍 Live Demo
+Check out the live version of the app here:  
+👉 **[https://strawberryproblem.streamlit.app/](https://strawberryproblem.streamlit.app/)**
