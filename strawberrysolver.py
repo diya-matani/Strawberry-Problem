@@ -95,7 +95,7 @@ def main():
         plt.grid(True)
         
         # Save plot to file instead of showing it (better for script execution)
-        output_plot = 'strawberry_payoff_plot.png'
+        output_plot = 'strawberrypayoffplot.png'
         plt.savefig(output_plot)
         print(f"\nPlot saved to {output_plot}")
     except Exception as e:
